@@ -1,0 +1,36 @@
+{
+  "category" : "Super Hero Movies & TV Series",
+  "acceptedFranchises" : [ "DC", "Marvel" ],
+  "genres" : [ "Action", "Adventure", "Heroic", "Dark", "Funny" ],
+  "tvSeries" : [ {
+    "title" : "Flash",
+    "year" : 2014
+  }, {
+    "title" : "Arrow",
+    "year" : 2012
+  }, {
+    "title" : "SuperGirl",
+    "year" : 2015
+  } ],
+  "otherDetails" : {
+    "country" : "USA",
+    "language" : "English"
+  },
+  "movies" : [ {
+    "title" : "Batman: The Dark Knight",
+    "year" : 2008,
+    "cast" : [ "Christian Bale", "Heath Ledger" ]
+  }, {
+    "title" : "Justice League: Snyder Cut",
+    "year" : 2021,
+    "cast" : [ "Henry Cavil", "Gal Gadot" ]
+  }, {
+    "title" : "Avengers: Age of Ultron",
+    "year" : 2015,
+    "cast" : [ "Robert Downey, Jr.", "Chris Evans" ]
+  }, {
+    "title" : "The Avengers",
+    "year" : 2012,
+    "cast" : [ "Chris Evans", "Chris Hemesworth" ]
+  } ]
+}
